@@ -1,0 +1,15 @@
+Distance Matrix
+0	4	4	3	inf	
+3	0	7	6	inf	
+6	3	0	2	inf	
+4	1	1	0	inf	
+6	3	3	2	0	
+
+Predecessor Matrix
+1	4	4	1	-1	
+2	2	4	1	-1	
+2	4	3	3	-1	
+2	4	4	4	-1	
+2	4	4	5	5	
+
+No negative cycle
